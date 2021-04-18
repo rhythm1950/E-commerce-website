@@ -1,0 +1,30 @@
+nav a {
+  text-decoration: none;
+  margin-right: 15px;
+  margin-left: 15px;
+  padding: 10px;
+}
+nav {
+  display: flex;
+  text-align: end;
+}
+nav a:hover {
+  background-color: rgb(231, 12, 122);
+  color: white;
+}
+.login-button {
+  background-color: rgb(231, 12, 122);
+  color: white;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+.site-title {
+  margin-left: 20%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 900;
+  color: rgb(231, 12, 122);
+}
+.header-section {
+  height: 60px;
+  margin-top: 1%;
+}

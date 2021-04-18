@@ -1,0 +1,19 @@
+.product {
+    border: 1px solid grey;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+}
+.add-btn {
+    background-color: rgb(231, 12, 122);
+    width: 138px;
+    height: 38px;
+    border: 1px solid rgb(231, 12, 122);
+    border-radius: 4px;
+    color: white;
+    cursor: pointer;
+}

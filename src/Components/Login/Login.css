@@ -1,0 +1,25 @@
+.login-form-div {
+    text-align: center;
+    margin-top: 5%;
+}
+.submit-form {
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 10px 10px 40px rgb(223, 210, 210);
+    margin: auto 37%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+.submit-btn {
+    background-color: rgb(231, 12, 122);
+    border: 2px solid rgb(231, 12, 122);
+    padding: 6px 15px;
+    color: white;
+    margin-top: 3%;
+}
+.input-box {
+    background-color: rgb(235, 235, 235);
+    border: 1px solid white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 12px;
+}
